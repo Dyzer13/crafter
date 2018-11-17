@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
+const prefix = "k";
 
 client.on('message', message => {
   if (!message.content.startsWith(PREFIX)) return;
