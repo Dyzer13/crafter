@@ -1,7 +1,5 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
-const PREFIX = "1"
- 
+const client = new Discord.Client(); 
 console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 console.log('         [Wait please .. ]       ')
 console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
